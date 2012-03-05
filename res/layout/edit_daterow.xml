@@ -6,9 +6,9 @@
 
     <ImageView
         android:id="@+id/dateImage"
-        android:contentDescription=""
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:contentDescription="@string/date"
         android:src="@drawable/ic_menu_month" />
 
     <Button

@@ -81,7 +81,7 @@
   <string name="pick_folder">Choose a folder to sync from:</string>
   <string name="email">Email</string>
   <string name="username">Username</string>
-  <string name="password">Password</string>
+  <string name="password">password</string>
   <string name="host">Host</string>
   <string name="port">Port</string>
   <string name="path">Path</string>
@@ -156,5 +156,8 @@
   <string name="preference_calendar_show_done">Show done</string>
   <string name="edit_date_start">Start</string>
   <string name="edit_date_end">End</string>
-  <string name="edit_date_date">Date</string>  
+  <string name="edit_date_date">Date</string>
+  <string name="email_address">email address</string>
+  <string name="done">Done</string>
+  <string name="date">Date</string>  
 </resources>
